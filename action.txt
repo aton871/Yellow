@@ -1,0 +1,5 @@
+miner, se reposer, aller en ville, quitter
+
+
+g++ -o main main.cpp -lsfml-audio -lsfml-graphics -lsfml-window -lsfml-system
+./main.exe
